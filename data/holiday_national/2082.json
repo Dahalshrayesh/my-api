@@ -3,17 +3,16 @@
   "ttl_hours": 12,
   "days": {
     "11-21": {
-      "holiday": [
-        "विशेष सार्वजनिक बिदा"
-      ],
-      "national": [
-        "राष्ट्रिय शोक दिवस"
-      ],
-      "11-22": {
-        "national": []
-         
-        
-      }
+      "holiday": ["विशेष सार्वजनिक बिदा"],
+      "national": ["राष्ट्रिय शोक दिवस"]
+    },
+    "11-22": {
+      "holiday": ["hhhh", "hhhh2"],
+      "national": ["hhhh"]
+    },
+    "11-19": {
+      "holiday": ["hhhh", "hhhh2"],
+      "national": ["hhhh"]
     }
   }
 }
