@@ -2,8 +2,8 @@
   "year": 2082,
   "ttl_hours": 12,
   "days": {
-    "11-22": { "holiday": ["Nepalllllii"] },
-    
+    "11-21": { "holiday": ["..."] },
+    "11-22": { "national": ["..."] }
   }
 }
 
